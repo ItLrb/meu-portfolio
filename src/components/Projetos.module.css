@@ -1,0 +1,11 @@
+/* @media (min-width: 360px) and (max-width: 1145px) {
+    #projetos {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0px;
+    }
+    #projetos section {
+        width: 250px;
+    }
+} */
