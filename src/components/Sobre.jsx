@@ -3,8 +3,8 @@ import { Tooltip } from "flowbite-react"
 function Sobre() {
     return (
         <>
-            <hr id="sobre" className="w-[50%] text-center ml-[25%] border-[#fff] mt-10 sm:mt-0 sm:block hidden" />
-            <main  className="place-items-center sm:flex h-screen sm:justify-around sm:items-center sm:ml-[33px]">
+            <hr className="w-[50%] text-center ml-[25%] border-[#fff] mt-10 sm:mt-0 sm:block hidden" />
+            <main id="sobre" className="place-items-center sm:flex h-screen sm:justify-around sm:items-center sm:ml-[33px]">
                 <div className="text-white">
                     <h2 className="font-bold text-[30px] drop-shadow-md text-center sm:text-left">SOBRE MIM</h2>
                     <p className="font-semibold text-[30px] text-center sm:text-left drop-shadow-md">meu nome é Italo e eu sou de <br/>
