@@ -13,7 +13,7 @@ function Foot() {
                 </a></li>
                 <li><a href="https://github.com/ItLrb" target="_blank" className="inline-flex items-center gap-2 underline"><FooterIcon icon={BsGithub} /> Meu Github
                 </a></li>
-                <li><a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank" className="inline-flex items-center gap-2 underline"><FooterIcon icon={BsEnvelope} />italoir06@gmail.com
+                <li><a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQzBSgTrwHssmvfQGjNpnlKWmZtCjWMpfjXrscKlbtKbxrltGsBBQWzsnpmHSLpnTGBpG" target="_blank" className="inline-flex items-center gap-2 underline"><FooterIcon icon={BsEnvelope} />italoir06@gmail.com
                 </a></li>
             </ul>
           </div>
@@ -23,7 +23,7 @@ function Foot() {
           <div className="mt-4 flex space-x-6 sm:mt-0 sm:justify-center">
             <FooterIcon href="https://www.linkedin.com/in/italo-roberto-a4921b278/" target="_blank" icon={BsLinkedin} />
             <FooterIcon href="https://github.com/ItLrb" target="_blank" icon={BsGithub} />
-            <FooterIcon href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank" icon={BsEnvelope} />
+            <FooterIcon href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQzBSgTrwHssmvfQGjNpnlKWmZtCjWMpfjXrscKlbtKbxrltGsBBQWzsnpmHSLpnTGBpG" target="_blank" icon={BsEnvelope} />
           </div>
         </div>
       </div>
