@@ -52,7 +52,7 @@ function Projeto() {
                         </div>
                     </section>
                     
-                    <section className="sm:grid sm:grid-rows-50 sm:grid-cols-50 sm:place-items-center mt-16">
+                    <section className="sm:grid sm:grid-rows-50 sm:grid-cols-50 sm:place-items-center mt-16 sm:mb-6">
                         <div className="sm:w-[550px] h-[470px] sm:flex sm:items-center sm:justify-center
                         border-[3px] rounded-[15px] border-[#1649FD] text-center sm:flex-col">
                             <img src={ourgamesPage} alt="OurGames Home Page" className="w-[450px] rounded-[15px]" />
