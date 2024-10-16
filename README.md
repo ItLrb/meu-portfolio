@@ -15,11 +15,9 @@ Este site irá explicar um pouco sobre mim, como onde eu moro, qual minha área,
 
 ## Tecnologias                                
 
-Status: Obrigatório
-
-| Dia | Descriçao | tecnologias |
-|:---:|---------|:-----------:|
-|  16/10  |Acelerando sua evolução| ![npm](https://img.shields.io/npm/v/react?color=black&label=React&logo=react) |
+| Dia | | tecnologias |
+|:---:| |:-----------:|
+|  16/10  | | ![npm](https://img.shields.io/npm/v/react?color=black&label=React&logo=react) |
 
 ------------------------
 
