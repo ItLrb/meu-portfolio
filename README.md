@@ -19,5 +19,5 @@ Acesse o site clicando aqui 👉 <a href="italorb-portfoliodev.vercel.app"> <b> 
 
 | Dia | Descriçao | tecnologias |
 |:---:|---------|:-----------:|
-|  16/10  |Finalização do site| ![[npm]([https://img.shields.io/npm/v/react?color=black&label=React&logo=react](https://shields.io/badge/react-black?logo=react&style=for-the-badge))](https://shields.io/badge/react-black?logo=react&style=for-the-badge) ![npm](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) |
+|  16/10  |Finalização do site| ![[npm]([https://img.shields.io/npm/v/react?color=black&label=React&logo=react](https://shields.io/badge/react-black?logo=react&style=for-the-badge))](https://shields.io/badge/react-black?logo=react&style=for-the-badge) ![npm](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) ![npm](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) |
 
