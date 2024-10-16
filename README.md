@@ -7,7 +7,7 @@ Entenda um pouco mais sobre mim!!
 
 Este site irá explicar um pouco sobre mim, como onde eu moro, qual minha área, minhas stacks e entre outros, além disso poderá ver uns projetos que eu fiz
 
-### Pré-Visualização
+## Pré-Visualização
 
 Acesse o site clicando aqui 👉 <a href="italorb-portfoliodev.vercel.app"> <b> CLIQUE AQUI </b> </a>
 
