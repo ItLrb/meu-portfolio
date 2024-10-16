@@ -17,7 +17,7 @@ Este site irá explicar um pouco sobre mim, como onde eu moro, qual minha área,
 
 | Dia | Descriçao | tecnologias |
 |:---:|---------|:-----------:|
-|  16/10  |Finalização do site| ![npm](https://img.shields.io/npm/v/react?color=black&label=React&logo=react) ![npm](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) |
+|  16/10  |Finalização do site| ![npm]([https://img.shields.io/npm/v/react?color=black&label=React&logo=react](https://shields.io/badge/react-black?logo=react&style=for-the-badge)) ![npm](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) |
 
 ------------------------
 
