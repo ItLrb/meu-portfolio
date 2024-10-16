@@ -9,7 +9,7 @@ Este site irá explicar um pouco sobre mim, como onde eu moro, qual minha área,
 
 ### Pré-Visualização
 
-Acesse o site clicando aqui 👉 : italorb-portfoliodev.vercel.app
+Acesse o site clicando aqui 👉 <a href="italorb-portfoliodev.vercel.app"> CLIQUE AQUI </a>
 
 <p align="left">
   <img src="/src/assets/Presentation Gif to Github.gif" alt="GIF" width="570px" />
