@@ -1,6 +1,6 @@
 import { Tooltip, Card } from "flowbite-react"
 import React, { useState }  from "react"
-import resume from '../assets/Currículo_Italo_Roberto-v4.0.pdf'
+import resume from '../assets/Currículo_Italo_Roberto.pdf'
 
 function Home() {
     const [isShown, setIsShown] = useState(false)
@@ -13,10 +13,11 @@ function Home() {
                 <div className="text-white">
                     <h2 className="font-bold text-[46px] drop-shadow-md text-center sm:text-left">Olá 👋,</h2>
                     <p className="font-semibold text-[30px] drop-shadow-md text-center sm:text-left">me chamo Italo Roberto e <br/>
-                        sou <span className="text-[#1649FD]">Dev | Front-End</span>, seja <br/>
+                        sou <span className="text-[#1649FD]">.NET Dev | FullStack</span>, seja <br/>
                         bem-vindo ao meu portfolio <br/>
                         abaixo você pode baixar meu <br/>
-                        <span className="text-[#1649FD]">CV</span> e minhas redes sociais. </p>
+                        <span className="text-[#1649FD]">CV</span> e minhas redes sociais. <br/> 
+                        <span className="text-[15px] text-[#767676]">*passe o mouse em cima para ver as pré-visualizações*</span></p>
                     <div className="buttons inline-flex items-center mt-5">
                         <button className="border-[3px] rounded-[15px] border-[#1649FD] hover:bg-[#0a3e6bb2] transition-all font-semibold text-[26px]
                         sm:px-[35px] py-[2px] px-[20px] flex items-center ">
@@ -24,7 +25,7 @@ function Home() {
                             height="20" width="20" viewBox="0 0 512 512">
                                 <path fill="#ffffff" d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32V274.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7V32zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V416c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352H64zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
                             </svg>
-                            <a href={resume} download="Cv" className="flex items-center">Download CV</a>
+                            <a href={resume} download="Cv Italo Roberto" className="flex items-center">Download CV</a>
                         </button>
 
                         <ul className="flex gap-[20px] ml-7"> 
@@ -45,17 +46,17 @@ function Home() {
                                         <Card href="#" className="hidden z-20 w-[420px] left-[325px] mt-3 sm:flex absolute bg-[#1B1F23] border-[#1B1F23] justify-center">
                                             <div 
                                                 className="banner w-[420px] h-16 bg-cover bg-center absolute left-[0px] top-[0px] rounded-t-md
-                                                    bg-[url('https://media.licdn.com/dms/image/D4D16AQFlCVVfd618sA/profile-displaybackgroundimage-shrink_350_1400/0/1699313407099?e=1711584000&v=beta&t=ZfVKtGclah1U-mMqOCoExTr3PeGHAOnGqFUW-ObBx-A')]"></div>
+                                                    bg-[url('https://media.licdn.com/dms/image/v2/D4D16AQFCXsTVy72J0Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709405756729?e=1734566400&v=beta&t=UejqTKBb_iBicR9FbUU4r_7B_bm0O5mPQq4L0TPesCg')]"></div>
                                             <div className="z-10 flex justify-between items-center">
                                                 <section
                                                 className="w-[75px] h-[75px] rounded-full bg-center bg-cover
-                                                    bg-[url('https://media.licdn.com/dms/image/D4D03AQGPYIpviTtlwQ/profile-displayphoto-shrink_200_200/0/1702672486548?e=1711584000&v=beta&t=sZhzWh7Ju2j85waen-fIs3bkcewU9FGjUq88-5UBl-c')]"></section>
+                                                    bg-[url('https://media.licdn.com/dms/image/v2/D4E03AQHlpKs6-AeVQw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729094721206?e=1734566400&v=beta&t=bZa6UGdIUaOWpu4jV4iFG37uGG5hUV9uJ-VJQezN5O8')]"></section>
                                                 <button className="z-10 bg-[#1B1F23] border-[2px] border-[#1649FD] px-2 py-[4px] rounded-full">
                                                 Meu Perfil</button>
                                             </div>
                                             <div className="ml-3 z-10">
                                                 <h2 className="font-semibold text-xl">Italo Roberto</h2>
-                                                <p className="text-sm">Desenvolvedor Front-End | HTML5 | CSS3 | TAILWINDCSS | JAVASCRIPT | PHP | MySQL | C++</p>
+                                                <p className="text-sm">Developer FullStack | C# | .NET | Blazor | React | SQL | GIT</p>
                                             </div>
                                             
                                         </Card>
@@ -79,7 +80,7 @@ function Home() {
                                         <div className="ml-3 z-10 text-center">
                                             <h2 className="font-semibold text-xl">Italo ( ItLrb ) </h2>
                                             <p className="text-md text-[#3C4149]">ItLrb · he/him</p>
-                                            <p className="text-md ">Developer | Front-End 👨‍💻</p>
+                                            <p className="text-md ">.NET FullStack Developer 👨‍💻 | C# | Js | Blazor | Sql</p>
                                         </div>
                                         <button className="w-full border border-[#8B949E] bg-[#21262D] rounded-md text-[#969DA4]">
                                             Meu Perfil

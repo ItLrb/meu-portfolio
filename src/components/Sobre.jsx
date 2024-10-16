@@ -1,5 +1,5 @@
 import { Tooltip } from "flowbite-react"
-import resume from '../assets/Currículo_Italo_Roberto-v4.0.pdf'
+import resume from '../assets/Currículo_Italo_Roberto.pdf'
 
 function Sobre() {
     return (
@@ -11,12 +11,12 @@ function Sobre() {
                     <p className="font-semibold text-[30px] text-center sm:text-left drop-shadow-md">meu nome é Italo e eu sou de <br/>
                         <span className="text-[#1649FD]">Salvador - Bahia 📍</span> e estou <br/>
                         estudando programação na <br/>
-                        área de <span className="text-[#1649FD]">Front-End</span> já tem 2  <br/>
-                        anos, ao acessar meu <br /> 
+                        área de <span className="text-[#1649FD]">FullStack</span> há 2  <br/>
+                        anos, ao acessar meu <br />
                         <span className="text-[#1649FD]">LinkedIn</span>  você terá mais <br />
                         informações e ao lado você <br />
                         pode ver as stacks que eu <br />
-                        tenho conhecimento.
+                        tenho conhecimento e utilizo.
                     </p>
                     <div className="buttons flex ml-11 sm:ml-0 justify-center mr-9 sm:inline-flex sm:items-center mt-5">
                         <button className="border-[3px] rounded-[15px] border-[#1649FD] hover:bg-[#0a3e6bb2] transition-all font-semibold text-[26px]
@@ -47,14 +47,20 @@ function Sobre() {
                         <Tooltip content="ReactJs - JavaScript Library" placement="left" style="light">
                             <li><i className="devicon-react-original text-[48px] p-[5px] border-[3px] border-[#1649FD] rounded-[15px]"></i></li>
                         </Tooltip>
-                        <Tooltip content="PHP - Programming Language" placement="right" style="light">
-                            <li><i className="devicon-php-plain text-[48px] p-[5px] border-[3px] border-[#1649FD] rounded-[15px]"></i></li>
+                        <Tooltip content="CSharp - Programming Language" placement="right" style="light">
+                            <li><i className="devicon-csharp-plain text-[48px] p-[5px] border-[3px] border-[#1649FD] rounded-[15px]"></i></li>
                         </Tooltip>
-                        <Tooltip content="MySql - DataBase" placement="bottom" style="light">
+                        <Tooltip content=".NET - FrameWork" placement="left" style="light">
+                            <li><i className="devicon-dot-net-plain text-[48px] p-[5px] border-[3px] border-[#1649FD] rounded-[15px]"></i></li>
+                        </Tooltip>
+                        <Tooltip content="MySql - DataBase" placement="right" style="light">
                             <li><i className="devicon-mysql-plain text-[48px] p-[5px] border-[3px] border-[#1649FD] rounded-[15px]"></i></li>
                         </Tooltip>
-                        <Tooltip content="Cplusplus - Programming Language" placement="bottom" style="light">
-                            <li><i className="devicon-cplusplus-plain text-[48px] p-[5px] border-[3px] border-[#1649FD] rounded-[15px]"></i></li>
+                        <Tooltip content="Git - Version Control System" placement="bottom" style="light">
+                            <li><i className="devicon-git-plain text-[48px] p-[5px] border-[3px] border-[#1649FD] rounded-[15px]"></i></li>
+                        </Tooltip>
+                        <Tooltip content="Nuget - Packgage Manager" placement="bottom" style="light">
+                            <li><i className="devicon-nuget-original text-[48px] p-[5px] border-[3px] border-[#1649FD] rounded-[15px]"></i></li>
                         </Tooltip>
                     </ul>
                 </div>
