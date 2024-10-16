@@ -10,7 +10,7 @@ Este site irá explicar um pouco sobre mim, como onde eu moro, qual minha área,
 ### Pré-Visualização
 
 <p align="center">
-  <img src="..src/assets/Presentation Gif to Github.gif" alt="GIF" width="700px" />
+  <img src="meu-portfolio\src\assetsPresentation Gif to Github.gif" alt="GIF" width="700px" />
 </p>
 
 
