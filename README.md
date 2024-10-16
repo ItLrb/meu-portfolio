@@ -1,10 +1,9 @@
 ## Meu Portfólio
-
-Entenda um pouco mais sobre mim!!
+ 
 ✅ Finalizado e pronto para análise.
+Entenda um pouco mais sobre mim!!
 
 ## Descrição          
-
 
 Este site irá explicar um pouco sobre mim, como onde eu moro, qual minha área, minhas stacks e entre outros, além disso poderá ver uns projetos que eu fiz
 
@@ -13,6 +12,14 @@ Este site irá explicar um pouco sobre mim, como onde eu moro, qual minha área,
 <p align="left">
   <img src="/src/assets/Presentation Gif to Github.gif" alt="GIF" width="570px" />
 </p>
+
+## Tecnologias                                
+
+Status: Obrigatório
+
+| Dia | Descriçao | tecnologias |
+|:---:|---------|:-----------:|
+|  16/10  |Acelerando sua evolução| ![npm](https://img.shields.io/npm/v/react?color=black&label=React&logo=react) |
 
 ------------------------
 
