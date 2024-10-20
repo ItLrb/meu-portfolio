@@ -17,7 +17,7 @@ function Home() {
                         bem-vindo ao meu portfolio <br/>
                         abaixo você pode baixar meu <br/>
                         <span className="text-[#1649FD]">CV</span> e minhas redes sociais. <br/> 
-                        <span className="text-[15px] text-[#767676]">*passe o mouse em cima para ver as pré-visualizações*</span></p>
+                        <span className="text-[15px] text-[#767676] hidden sm:block md:block">*passe o mouse em cima para ver as pré-visualizações*</span></p>
                     <div className="buttons inline-flex items-center mt-5">
                         <button className="border-[3px] rounded-[15px] border-[#1649FD] hover:bg-[#0a3e6bb2] transition-all font-semibold text-[26px]
                         sm:px-[35px] py-[2px] px-[20px] flex items-center ">
