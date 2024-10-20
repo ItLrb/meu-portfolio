@@ -11,13 +11,13 @@ function Home() {
         <>
             <main id="home" className="flex justify-center items-center w-screen h-screen">
                 <div className="text-white">
-                    <h2 className="font-bold text-[46px] drop-shadow-md text-center sm:text-left">Olá 👋,</h2>
-                    <p className="font-semibold text-[30px] drop-shadow-md text-center sm:text-left">me chamo Italo Roberto e <br/>
-                        sou <span className="text-[#1649FD]">.NET Dev | FullStack</span>, seja <br/>
-                        bem-vindo ao meu portfolio <br/>
-                        abaixo você pode baixar meu <br/>
-                        <span className="text-[#1649FD]">CV</span> e minhas redes sociais. <br/> 
-                        <span className="text-[15px] text-[#767676] hidden sm:block md:block">*passe o mouse em cima para ver as pré-visualizações*</span></p>
+                    <h2 className="font-bold text-[46px] drop-shadow-md text-center sm:text-left">Hello 👋,</h2>
+                    <p className="font-semibold text-[30px] drop-shadow-md text-center sm:text-left">My name is Italo Roberto and <br/>
+                        I'm <span className="text-[#1649FD]">.NET Dev | FullStack</span> <br/>
+                        welcome to my portfolio <br/>
+                        right bellow you can download <br/>
+                        <span className="text-[#1649FD]">CV</span> and my social medias. <br/> 
+                        <span className="text-[15px] text-[#767676] hidden sm:block md:block">*pass the mouse over the icons to preview*</span></p>
                     <div className="buttons inline-flex items-center mt-5">
                         <button className="border-[3px] rounded-[15px] border-[#1649FD] hover:bg-[#0a3e6bb2] transition-all font-semibold text-[26px]
                         sm:px-[35px] py-[2px] px-[20px] flex items-center ">
@@ -52,7 +52,7 @@ function Home() {
                                                 className="w-[75px] h-[75px] rounded-full bg-center bg-cover
                                                     bg-[url('https://media.licdn.com/dms/image/v2/D4E03AQHlpKs6-AeVQw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729094721206?e=1734566400&v=beta&t=bZa6UGdIUaOWpu4jV4iFG37uGG5hUV9uJ-VJQezN5O8')]"></section>
                                                 <button className="z-10 bg-[#1B1F23] border-[2px] border-[#1649FD] px-2 py-[4px] rounded-full">
-                                                Meu Perfil</button>
+                                                My profile</button>
                                             </div>
                                             <div className="ml-3 z-10">
                                                 <h2 className="font-semibold text-xl">Italo Roberto</h2>
@@ -83,7 +83,7 @@ function Home() {
                                             <p className="text-md ">.NET FullStack Developer 👨‍💻 | C# | Js | Blazor | Sql</p>
                                         </div>
                                         <button className="w-full border border-[#8B949E] bg-[#21262D] rounded-md text-[#969DA4]">
-                                            Meu Perfil
+                                            My profile
                                         </button>
                                     </Card>
                                     )}

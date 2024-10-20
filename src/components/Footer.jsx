@@ -7,11 +7,11 @@ function Foot() {
       <div className="w-full text-white place-items-center">
         <div className="flex w-full px-6 py-8 md:flex">
           <div className="flex justify-center w-full flex-col items-center">
-            <h3 className="font-semibold text-xl">Meus Contatos</h3>
+            <h3 className="font-semibold text-xl">My contacts</h3>
             <ul className="flex justify-center ml-[23%] sm:ml-[70px] sm:flex-row sm:items-baseline gap-7 mt-10 flex-col font-bold text-[20px] underline">
-                <li><a href="https://www.linkedin.com/in/italo-roberto-a4921b278/" target="_blank" className="inline-flex items-center gap-2 underline"><FooterIcon icon={BsLinkedin} /> Meu LinkedIn
+                <li><a href="https://www.linkedin.com/in/italo-roberto-a4921b278/" target="_blank" className="inline-flex items-center gap-2 underline"><FooterIcon icon={BsLinkedin} /> My LinkedIn
                 </a></li>
-                <li><a href="https://github.com/ItLrb" target="_blank" className="inline-flex items-center gap-2 underline"><FooterIcon icon={BsGithub} /> Meu Github
+                <li><a href="https://github.com/ItLrb" target="_blank" className="inline-flex items-center gap-2 underline"><FooterIcon icon={BsGithub} /> My Github
                 </a></li>
                 <li><a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQzBSgTrwHssmvfQGjNpnlKWmZtCjWMpfjXrscKlbtKbxrltGsBBQWzsnpmHSLpnTGBpG" target="_blank" className="inline-flex items-center gap-2 underline"><FooterIcon icon={BsEnvelope} />italoir06@gmail.com
                 </a></li>

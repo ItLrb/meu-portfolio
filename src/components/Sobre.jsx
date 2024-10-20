@@ -7,16 +7,16 @@ function Sobre() {
             <hr className="w-[50%] text-center ml-[25%] border-[#fff] mt-10 sm:mt-0 sm:block hidden" />
             <main id="sobre" className="place-items-center sm:flex h-screen sm:justify-around sm:items-center sm:ml-[33px]">
                 <div className="text-white">
-                    <h2 className="font-bold text-[30px] drop-shadow-md text-center sm:text-left">SOBRE MIM</h2>
-                    <p className="font-semibold text-[30px] text-center sm:text-left drop-shadow-md">meu nome é Italo e eu sou de <br/>
-                        <span className="text-[#1649FD]">Salvador - Bahia 📍</span> e estou <br/>
-                        estudando programação na <br/>
-                        área de <span className="text-[#1649FD]">FullStack</span> há 2  <br/>
-                        anos, ao acessar meu <br />
-                        <span className="text-[#1649FD]">LinkedIn</span>  você terá mais <br />
-                        informações e ao lado você <br />
-                        pode ver as stacks que eu <br />
-                        tenho conhecimento e utilizo.
+                    <h2 className="font-bold text-[30px] drop-shadow-md text-center sm:text-left">ABOUT ME</h2>
+                    <p className="font-semibold text-[30px] text-center sm:text-left drop-shadow-md">My name is Italo and I'm from <br/>
+                        <span className="text-[#1649FD]">Salvador - Bahia, Brazil 📍</span> and I <br/>
+                        have been studying in the <br/>
+                        <span className="text-[#1649FD]">FullStack</span> area for<br/>
+                        2 year, when you acess my <br />
+                        <span className="text-[#1649FD]">LinkedIn</span> you will have more <br />
+                        informations and on the right you <br />
+                        can see the stacks <br />
+                        that I know and use
                     </p>
                     <div className="buttons flex ml-11 sm:ml-0 justify-center mr-9 sm:inline-flex sm:items-center mt-5">
                         <button className="border-[3px] rounded-[15px] border-[#1649FD] hover:bg-[#0a3e6bb2] transition-all font-semibold text-[26px]
