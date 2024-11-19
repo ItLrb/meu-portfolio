@@ -50,7 +50,7 @@ function Home() {
                                             <div className="z-10 flex justify-between items-center">
                                                 <section
                                                 className="w-[75px] h-[75px] rounded-full bg-center bg-cover
-                                                    bg-[url('https://media.licdn.com/dms/image/v2/D4E03AQHlpKs6-AeVQw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729094721206?e=1734566400&v=beta&t=bZa6UGdIUaOWpu4jV4iFG37uGG5hUV9uJ-VJQezN5O8')]"></section>
+                                                    bg-[url('https://media.licdn.com/dms/image/v2/D4D03AQFxVTmNDzO32w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731976307655?e=1737590400&v=beta&t=p3pw6uvmx23rD29SABOoV6tP30X-daXzjQSkzY_v_eA')]"></section>
                                                 <button className="z-10 bg-[#1B1F23] border-[2px] border-[#1649FD] px-2 py-[4px] rounded-full">
                                                 My profile</button>
                                             </div>
