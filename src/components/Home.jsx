@@ -13,7 +13,7 @@ function Home() {
                 <div className="text-white">
                     <h2 className="font-bold text-[46px] drop-shadow-md text-center sm:text-left">Hello 👋,</h2>
                     <p className="font-semibold text-[30px] drop-shadow-md text-center sm:text-left">My name is Italo Roberto and <br/>
-                        I'm <span className="text-[#1649FD]">.NET Dev | FullStack</span> <br/>
+                        I'm <span className="text-[#1649FD]">.NET Dev | Backend</span> <br/>
                         welcome to my portfolio <br/>
                         right bellow you can download <br/>
                         <span className="text-[#1649FD]">CV</span> and my social medias. <br/> 
@@ -56,7 +56,7 @@ function Home() {
                                             </div>
                                             <div className="ml-3 z-10">
                                                 <h2 className="font-semibold text-xl">Italo Roberto</h2>
-                                                <p className="text-sm">Developer FullStack | C# | .NET | Blazor | React | SQL | GIT</p>
+                                                <p className="text-sm">Developer Backend | C# | .NET | SQL | GIT</p>
                                             </div>
                                             
                                         </Card>
@@ -80,7 +80,7 @@ function Home() {
                                         <div className="ml-3 z-10 text-center">
                                             <h2 className="font-semibold text-xl">Italo ( ItLrb ) </h2>
                                             <p className="text-md text-[#3C4149]">ItLrb · he/him</p>
-                                            <p className="text-md ">.NET FullStack Developer 👨‍💻 | C# | Js | Blazor | Sql</p>
+                                            <p className="text-md ">.NET Backend Developer 👨‍💻 | C# | Js | Sql</p>
                                         </div>
                                         <button className="w-full border border-[#8B949E] bg-[#21262D] rounded-md text-[#969DA4]">
                                             My profile

@@ -10,7 +10,7 @@ function Projeto() {
         <>
             <hr className="w-[50%] text-center ml-[25%] border-[#fff] sm:block hidden" />
             <main id="projetos" className="flex justify-center items-left h-screen flex-col mt-5">
-                <h2 className="font-bold text-[30px] drop-shadow-md text-white ml-0 sm:ml-52 text-center sm:text-left mt-24">PROJECTS</h2>
+                <h2 className="font-bold text-[30px] drop-shadow-md text-white ml-0 sm:ml-52 text-center sm:text-left mt-24">PROJECTS (Frontend)</h2>
                 <div id={style.projetos} className="flex flex-col sm:flex sm:flex-row h-screen sm:items-center sm:justify-center gap-10 text-white">
                     <section className="sm:grid sm:grid-rows-50 sm:grid-cols-50 sm:place-items-center flex justify-center flex-col mt-10">
                         <div className="sm:w-[550px] h-[470px] sm:flex sm:items-center sm:justify-center
